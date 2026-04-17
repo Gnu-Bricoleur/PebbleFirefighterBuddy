@@ -6,7 +6,7 @@
     "pebble": {
         "displayName": "FireFighterBuddy",
         "enableMultiJS": true,
-        "messageKeys": [],
+        "messageKeys": ["email_text"],
         "projectType": "native",
         "resources": {
             "media": []
@@ -17,8 +17,5 @@
             "watchface": false
         }
     },
-    "version": "1.0.0",
-    "appKeys": {
-    "email_text": 1
-  }
+    "version": "1.0.0"
 }
